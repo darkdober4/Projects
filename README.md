@@ -1,2 +1,2 @@
 # Projects
-Python projects for AI
+Le squelette de l'interface principale du jeu
